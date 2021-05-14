@@ -105,6 +105,8 @@
       <path value="$PROJECT_DIR$/laravel_task/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/laravel_task/vendor/symfony/polyfill-php73" />
       <path value="$PROJECT_DIR$/laravel_task/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/laravel_task/vendor/webonyx/graphql-php" />
+      <path value="$PROJECT_DIR$/laravel_task/vendor/rebing/graphql-laravel" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7" />
